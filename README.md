@@ -7,7 +7,7 @@ recently the onion domain of the banking trojan called "alien" was leaked. so i 
 ## literally nothing but cerberus v1
 
 this honestly looks exactly like the cerberus v1 panel however the bot itself seems to be like cerberus v2 🤔
-as seen [here] too (https://github.com/0x656665/alien-react-panel/blob/main/Settings.js#L18)
+as seen [here](https://github.com/0x656665/alien-react-panel/blob/main/Settings.js#L18) too
 but this kid doesn't know how to remove / hide his sourcemap files lol
 - restored the source itself using the sourcemaps which can easily be
 
